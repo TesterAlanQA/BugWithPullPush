@@ -5,7 +5,7 @@
 title('Calculator');
 
 function plus(v1, v2) {
-    return v1 + v2;
+    return v2 + v1;
 }
 
 function minus(v1, v2) {
